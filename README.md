@@ -6,10 +6,10 @@ CESS is a distributed cloud data network with user friendly ledgers, novel conse
 
 Compared to the similar projects in the Polkadot ecosystem including Ocean, DataHighway and Bluzelle, CESS storage service features:
 
-*Encrypted data storage
-*Multiple copies (3 copies by default, more upon request)
-*Sharded and distributed on multiple nodes
-*Highly scalable storage space
-*Transactions secured by CESS blockchain
-*Data rights protection for data owners
-*Competitive cost
+* Encrypted data storage
+* Multiple copies (3 copies by default, more upon request)
+* Sharded and distributed on multiple nodes
+* Highly scalable storage space
+* Transactions secured by CESS blockchain
+* Data rights protection for data owners
+* Competitive cost
